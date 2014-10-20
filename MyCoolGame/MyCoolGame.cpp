@@ -12,6 +12,7 @@ int _tmain(int argc, _TCHAR* argv[])
 
 	// this is so stoopid
 
+
 	return 0;
 }
 
