@@ -6,8 +6,12 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+
 	//some awsome code
 	//cool feature is so cool
+
+	// this is so stoopid
+
 	return 0;
 }
 
