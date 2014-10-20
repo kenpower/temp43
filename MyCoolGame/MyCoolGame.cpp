@@ -6,6 +6,8 @@
 
 int _tmain(int argc, _TCHAR* argv[])
 {
+	//some lame code
+	// this is so stoopid
 	return 0;
 }
 
